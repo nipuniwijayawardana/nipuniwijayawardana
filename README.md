@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nipuniwijayawardana" alt="nipuniwijayawardana" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/nipuniwijayawardana" target="blank"><img src="https://img.shields.io/twitter/follow/nipuniwijayawardana?logo=twitter&style=for-the-badge" alt="nipuniwijayawardana" /></a> </p>
+<p align="left"> <a href="https://twitter.com/NWijewardana1" target="blank"><img src="https://img.shields.io/twitter/follow/NWijewardana1?logo=twitter&style=for-the-badge" alt="nipuniwijayawardana" /></a> </p>
 
 - 🔭 I’m currently working on **Green Line IT Developer Console Team**
 
