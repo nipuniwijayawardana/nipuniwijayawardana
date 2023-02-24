@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **contact@nipuni.lk**
 
+- ⚡ Fun fact **I think I am very funny**
+
 ![snake gif](https://raw.githubusercontent.com/thisirasandawath/grid-snake/0d1cc348468789bf01c119198a00b2414420b357/Thisira-contribution-grid-snake.svg)
 
 <h3 align="left">Connect with me:</h3>
