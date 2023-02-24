@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **contact@nipuni.lk**
 
+![snake gif](https://raw.githubusercontent.com/thisirasandawath/grid-snake/0d1cc348468789bf01c119198a00b2414420b357/Thisira-contribution-grid-snake.svg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nipuniwijayawardana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nipuniwijayawardana" height="30" width="40" /></a>
