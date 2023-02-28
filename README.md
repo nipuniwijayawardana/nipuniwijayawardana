@@ -20,6 +20,8 @@
 - ⚡ Fun fact **I think I am very funny**
 
 ![snake gif](https://raw.githubusercontent.com/thisirasandawath/grid-snake/0d1cc348468789bf01c119198a00b2414420b357/Thisira-contribution-grid-snake.svg)
+![nipuniwijayawardana GitHub Stats](https://dooboo.io/api/github-stats-advanced?login=nipuniwijayawardana)
+![nipuniwijayawardana GitHub Trophies](https://dooboo.io/api/github-trophies?login=nipuniwijayawardana)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
