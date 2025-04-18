@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **PHP, Git, SQL, SAP, NodeJS**
 
-- 📫 How to reach me **contact@nipuni.lk**
+- 📫 How to reach me
 
 - ⚡ Fun fact **I think I am very funny**
 
