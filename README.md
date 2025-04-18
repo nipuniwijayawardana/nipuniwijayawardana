@@ -2,8 +2,6 @@
 <h3 align="center">I’m a passionate frontend/backend developer and concept creator. I see myself as a relentless problem-solver, and I’m always looking for a new challenge. I have designed applications to streamline sales and marketing activities for busy professionals. I would love to chat with anyone and respect their opinions and learn more.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nipuniwijewardana" alt="nipuniwijewardana" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/NWijewardana1" target="blank"><img src="https://img.shields.io/twitter/follow/NWijewardana1?logo=twitter&style=for-the-badge" alt="nipuniwijewardana" /></a> </p>
 
 
